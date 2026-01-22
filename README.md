@@ -130,8 +130,8 @@ Use **ECS Anywhere** for on-premise + cloud deployments with unified tooling and
 
 ##  8. Video Reference
 
-A walkthrough recording and demo is available on YouTube: \
-https://www.youtube.com/watch?v=bAMrp8KW3Js&feature=youtu.be
+A walkthrough recording and YT demo is available on YouTube: \
+https://bit.ly/15MinsECS
 
 ---
 
